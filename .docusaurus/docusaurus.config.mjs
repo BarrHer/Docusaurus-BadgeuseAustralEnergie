@@ -7,9 +7,9 @@ export default {
   "title": "Documentation Badgeuse",
   "tagline": "Austral Energie",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
-  "organizationName": "facebook",
+  "url": "https://BarrHer.github.io",
+  "baseUrl": "/badgeuse/",
+  "organizationName": "AustralEnergie",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -26,12 +26,10 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/Docusaurus-BadgeuseAustralEnergie/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/Docusaurus-BadgeuseAustralEnergie/sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/Docusaurus-BadgeuseAustralEnergie/src/css/custom.css"
