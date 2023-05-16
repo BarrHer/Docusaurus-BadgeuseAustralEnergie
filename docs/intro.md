@@ -34,6 +34,8 @@ Pour chaque jours, on calcul le temps de travail en fonction des pointages d'ent
 **Heures supplémentaires** = Temps de travail du mois - Seuil horaire mensuel + solde des heures supplémentaires du mois précédent
 :::
 
+Chaque premiers du mois, un mail récapitulatif est envoyé à la partie technique avec le détail des heures supplémentaires de chaque employé.
+
 ### 3. Gestion des congés et des repos
 Les employés peuvent soumettre des demandes de congés ou de repos directement à travers l'application. Les gestionnaires peuvent ensuite approuver ou rejeter ces demandes, assurant ainsi une gestion centralisée et transparente des congés et des repos.
 
