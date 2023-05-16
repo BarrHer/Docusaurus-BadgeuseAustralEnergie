@@ -1,5 +1,5 @@
 {
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog-6e7": {
+  "/blog-234": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "d8448f14"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "f2a64756"
+    "metadata": "b2b675dd"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/archive-a54": {
+  "/blog/archive-19e": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "d8448f14"
     },
-    "archive": "1b3136f0"
+    "archive": "b2f554cd"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/first-blog-post-96e": {
+  "/blog/first-blog-post-786": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d8448f14"
@@ -36,7 +36,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/long-blog-post-bf3": {
+  "/blog/long-blog-post-e45": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d8448f14"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/mdx-blog-post-c40": {
+  "/blog/mdx-blog-post-260": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d8448f14"
@@ -52,15 +52,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags-672": {
+  "/blog/tags-eb9": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "d8448f14"
     },
     "sidebar": "814f3328",
-    "tags": "318f0b91"
+    "tags": "a7023ddc"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/docusaurus-7d8": {
+  "/blog/tags/docusaurus-bd8": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d8448f14"
@@ -80,10 +80,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "17e680b1",
-    "listMetadata": "0acd4b7c"
+    "tag": "a80da1cf",
+    "listMetadata": "608ae6a4"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/facebook-521": {
+  "/blog/tags/facebook-129": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d8448f14"
@@ -94,10 +94,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "da2c422f",
-    "listMetadata": "87e0ef18"
+    "tag": "031793e1",
+    "listMetadata": "096bfee4"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/hello-1fe": {
+  "/blog/tags/hello-4aa": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d8448f14"
@@ -111,10 +111,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "8e94783c",
-    "listMetadata": "b6bab5e3"
+    "tag": "30a24c52",
+    "listMetadata": "66406991"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/hola-d30": {
+  "/blog/tags/hola-37a": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d8448f14"
@@ -125,10 +125,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "a7be05c9",
-    "listMetadata": "79fa4bda"
+    "tag": "e16015ca",
+    "listMetadata": "4c9e35b1"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/welcome-1eb": {
+  "/blog/welcome-e9f": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d8448f14"
@@ -136,65 +136,65 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/markdown-page-06f": {
+  "/markdown-page-fcd": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "099bfd89"
     },
     "content": "393be207"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs-b5e": {
+  "/docs-f89": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "dc91e49e"
     },
     "versionMetadata": "935f2afb"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---basics-54e": {
+  "/docs/category/tutorial---basics-d44": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "971a1553"
+    "categoryGeneratedIndex": "ea88f2a1"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---extras-34d": {
+  "/docs/category/tutorial---extras-f09": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "695683c6"
+    "categoryGeneratedIndex": "c844b82d"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/intro-de5": {
+  "/docs/intro-aed": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/congratulations-5f2": {
+  "/docs/tutorial-basics/congratulations-793": {
     "__comp": "17896441",
     "content": "822bd8ab"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-blog-post-27b": {
+  "/docs/tutorial-basics/create-a-blog-post-68e": {
     "__comp": "17896441",
     "content": "533a09ca"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-document-ed7": {
+  "/docs/tutorial-basics/create-a-document-c2d": {
     "__comp": "17896441",
     "content": "1e4232ab"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-page-4be": {
+  "/docs/tutorial-basics/create-a-page-f44": {
     "__comp": "17896441",
     "content": "5c868d36"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/deploy-your-site-751": {
+  "/docs/tutorial-basics/deploy-your-site-e46": {
     "__comp": "17896441",
     "content": "f55d3e7a"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/markdown-features-e6e": {
+  "/docs/tutorial-basics/markdown-features-4b7": {
     "__comp": "17896441",
     "content": "18c41134"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/manage-docs-versions-a2b": {
+  "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "__comp": "17896441",
     "content": "dff1c289"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/translate-your-site-611": {
+  "/docs/tutorial-extras/translate-your-site-2d7": {
     "__comp": "17896441",
     "content": "e44a2883"
   },
-  "/Docusaurus-BadgeuseAustralEnergie/badgeuse/-29c": {
+  "/-006": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "099bfd89"

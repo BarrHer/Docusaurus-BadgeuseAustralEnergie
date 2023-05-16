@@ -3,140 +3,140 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog', '6e7'),
+    path: '/blog',
+    component: ComponentCreator('/blog', '234'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/archive',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/archive', 'a54'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', '19e'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/first-blog-post',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/first-blog-post', '96e'),
+    path: '/blog/first-blog-post',
+    component: ComponentCreator('/blog/first-blog-post', '786'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/long-blog-post',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/long-blog-post', 'bf3'),
+    path: '/blog/long-blog-post',
+    component: ComponentCreator('/blog/long-blog-post', 'e45'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/mdx-blog-post',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/mdx-blog-post', 'c40'),
+    path: '/blog/mdx-blog-post',
+    component: ComponentCreator('/blog/mdx-blog-post', '260'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags', '672'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', 'eb9'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/docusaurus',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/docusaurus', '7d8'),
+    path: '/blog/tags/docusaurus',
+    component: ComponentCreator('/blog/tags/docusaurus', 'bd8'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/facebook',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/facebook', '521'),
+    path: '/blog/tags/facebook',
+    component: ComponentCreator('/blog/tags/facebook', '129'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/hello',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/hello', '1fe'),
+    path: '/blog/tags/hello',
+    component: ComponentCreator('/blog/tags/hello', '4aa'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/hola',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/hola', 'd30'),
+    path: '/blog/tags/hola',
+    component: ComponentCreator('/blog/tags/hola', '37a'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/welcome',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/welcome', '1eb'),
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome', 'e9f'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/markdown-page',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/markdown-page', '06f'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', 'fcd'),
     exact: true
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs', 'b5e'),
+    path: '/docs',
+    component: ComponentCreator('/docs', 'f89'),
     routes: [
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---basics',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---basics', '54e'),
+        path: '/docs/category/tutorial---basics',
+        component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---extras',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---extras', '34d'),
+        path: '/docs/category/tutorial---extras',
+        component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/intro',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/intro', 'de5'),
+        path: '/docs/intro',
+        component: ComponentCreator('/docs/intro', 'aed'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/congratulations', '5f2'),
+        path: '/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-blog-post', '27b'),
+        path: '/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-document', 'ed7'),
+        path: '/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-page', '4be'),
+        path: '/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/deploy-your-site', '751'),
+        path: '/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/markdown-features', 'e6e'),
+        path: '/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/manage-docs-versions', 'a2b'),
+        path: '/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/translate-your-site', '611'),
+        path: '/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/badgeuse/',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/badgeuse/', '29c'),
+    path: '/',
+    component: ComponentCreator('/', '006'),
     exact: true
   },
   {

@@ -6,7 +6,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/intro",
+  "permalink": "/docs/intro",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,6 +17,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "Tutorial - Basics",
-    "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---basics"
+    "permalink": "/docs/category/tutorial---basics"
   }
 }
