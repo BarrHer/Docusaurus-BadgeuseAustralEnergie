@@ -1,68 +1,68 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/badgeuse/docs",
+      "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/badgeuse/docs",
+          "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/badgeuse/docs/intro",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/congratulations",
-              "path": "/badgeuse/docs/tutorial-basics/congratulations",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-blog-post",
-              "path": "/badgeuse/docs/tutorial-basics/create-a-blog-post",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-document",
-              "path": "/badgeuse/docs/tutorial-basics/create-a-document",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/create-a-page",
-              "path": "/badgeuse/docs/tutorial-basics/create-a-page",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/deploy-your-site",
-              "path": "/badgeuse/docs/tutorial-basics/deploy-your-site",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-basics/markdown-features",
-              "path": "/badgeuse/docs/tutorial-basics/markdown-features",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/manage-docs-versions",
-              "path": "/badgeuse/docs/tutorial-extras/manage-docs-versions",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tutorial-extras/translate-your-site",
-              "path": "/badgeuse/docs/tutorial-extras/translate-your-site",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---basics",
-              "path": "/badgeuse/docs/category/tutorial---basics",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/tutorial---extras",
-              "path": "/badgeuse/docs/category/tutorial---extras",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---extras",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,7 +70,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/badgeuse/docs/intro",
+                "path": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/intro",
                 "label": "intro"
               }
             }

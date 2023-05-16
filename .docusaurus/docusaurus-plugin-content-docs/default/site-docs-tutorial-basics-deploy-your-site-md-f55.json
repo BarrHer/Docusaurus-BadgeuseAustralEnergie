@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/deploy-your-site.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/deploy-your-site",
-  "permalink": "/badgeuse/docs/tutorial-basics/deploy-your-site",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/deploy-your-site",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Markdown Features",
-    "permalink": "/badgeuse/docs/tutorial-basics/markdown-features"
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/markdown-features"
   },
   "next": {
     "title": "Congratulations!",
-    "permalink": "/badgeuse/docs/tutorial-basics/congratulations"
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-basics/congratulations"
   }
 }

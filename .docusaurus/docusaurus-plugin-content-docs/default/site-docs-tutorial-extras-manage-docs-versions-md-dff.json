@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/manage-docs-versions",
-  "permalink": "/badgeuse/docs/tutorial-extras/manage-docs-versions",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/manage-docs-versions",
   "draft": false,
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Tutorial - Extras",
-    "permalink": "/badgeuse/docs/category/tutorial---extras"
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/category/tutorial---extras"
   },
   "next": {
     "title": "Translate your site",
-    "permalink": "/badgeuse/docs/tutorial-extras/translate-your-site"
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/docs/tutorial-extras/translate-your-site"
   }
 }

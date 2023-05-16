@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/badgeuse/blog/welcome"
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/badgeuse/blog/mdx-blog-post"
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/badgeuse/blog/long-blog-post"
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/badgeuse/blog/first-blog-post"
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/first-blog-post"
     }
   ]
 }

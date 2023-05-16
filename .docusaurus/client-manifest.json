@@ -46,17 +46,11 @@
       532,
       4013
     ],
-    "020fe7be": [
-      6971
-    ],
-    "02ba0b50": [
-      5656
-    ],
-    "04010330": [
-      688
-    ],
     "099bfd89": [
       4934
+    ],
+    "0acd4b7c": [
+      7022
     ],
     "0e384e19": [
       9671
@@ -65,11 +59,14 @@
       532,
       9817
     ],
-    "164f637e": [
-      3063
+    "17e680b1": [
+      9535
     ],
     "18c41134": [
       2859
+    ],
+    "1b3136f0": [
+      6385
     ],
     "1be78505": [
       532,
@@ -83,11 +80,11 @@
       1506,
       3085
     ],
+    "318f0b91": [
+      6433
+    ],
     "393be207": [
       7414
-    ],
-    "396edaba": [
-      1443
     ],
     "533a09ca": [
       4607
@@ -95,14 +92,14 @@
     "5c868d36": [
       5589
     ],
-    "5d328de4": [
-      8678
-    ],
     "6875c492": [
       532,
       1506,
       2529,
       8610
+    ],
+    "695683c6": [
+      1803
     ],
     "73664a40": [
       3514
@@ -110,8 +107,8 @@
     "7661071f": [
       9642
     ],
-    "7adf1274": [
-      8779
+    "79fa4bda": [
+      9080
     ],
     "814f3328": [
       2535
@@ -119,17 +116,23 @@
     "822bd8ab": [
       6504
     ],
-    "861aafcb": [
-      9896
-    ],
     "8717b14a": [
       948
+    ],
+    "87e0ef18": [
+      3709
+    ],
+    "8e94783c": [
+      4426
     ],
     "925b3f96": [
       9003
     ],
     "935f2afb": [
       53
+    ],
+    "971a1553": [
+      9971
     ],
     "9e4087bc": [
       3608
@@ -140,18 +143,15 @@
       2529,
       3089
     ],
-    "baddfc09": [
-      1430
+    "a7be05c9": [
+      3900
+    ],
+    "b6bab5e3": [
+      377
     ],
     "c4f5d8e4": [
       532,
       4195
-    ],
-    "cb28cfea": [
-      7418
-    ],
-    "cb805a4a": [
-      4425
     ],
     "ccc49370": [
       532,
@@ -159,17 +159,14 @@
       2529,
       6103
     ],
-    "d18601ee": [
-      347
-    ],
-    "d540e024": [
-      2920
-    ],
     "d8448f14": [
       8357
     ],
     "d9f32620": [
       1914
+    ],
+    "da2c422f": [
+      9884
     ],
     "dc91e49e": [
       9407
@@ -182,6 +179,9 @@
     ],
     "e44a2883": [
       6755
+    ],
+    "f2a64756": [
+      9274
     ],
     "f4f34a3a": [
       8636
@@ -210,27 +210,27 @@
     "53": {
       "js": [
         {
-          "file": "assets/js/935f2afb.edc54797.js",
-          "hash": "e0de261324aea251",
-          "publicPath": "/badgeuse/assets/js/935f2afb.edc54797.js"
+          "file": "assets/js/935f2afb.7a4aec89.js",
+          "hash": "72c5afd6b5904a65",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/935f2afb.7a4aec89.js"
         }
       ]
     },
     "179": {
       "js": [
         {
-          "file": "assets/js/main.1b3db197.js",
-          "hash": "e1152d1b845268b8",
-          "publicPath": "/badgeuse/assets/js/main.1b3db197.js"
+          "file": "assets/js/main.0482cc4b.js",
+          "hash": "600abaac693edaeb",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/main.0482cc4b.js"
         }
       ]
     },
-    "347": {
+    "377": {
       "js": [
         {
-          "file": "assets/js/d18601ee.1a46aac4.js",
-          "hash": "17ee0eea659826d4",
-          "publicPath": "/badgeuse/assets/js/d18601ee.1a46aac4.js"
+          "file": "assets/js/b6bab5e3.51cad1e9.js",
+          "hash": "b35cafe4652c44ed",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/b6bab5e3.51cad1e9.js"
         }
       ]
     },
@@ -239,52 +239,25 @@
         {
           "file": "assets/css/styles.5c8c3f00.css",
           "hash": "603047ffea8de687",
-          "publicPath": "/badgeuse/assets/css/styles.5c8c3f00.css"
-        }
-      ]
-    },
-    "688": {
-      "js": [
-        {
-          "file": "assets/js/04010330.5bce2a71.js",
-          "hash": "d4b1d8bc8432d732",
-          "publicPath": "/badgeuse/assets/js/04010330.5bce2a71.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/css/styles.5c8c3f00.css"
         }
       ]
     },
     "948": {
       "js": [
         {
-          "file": "assets/js/8717b14a.b6e754cb.js",
-          "hash": "471824a30178449d",
-          "publicPath": "/badgeuse/assets/js/8717b14a.b6e754cb.js"
+          "file": "assets/js/8717b14a.c07648f1.js",
+          "hash": "e92ff65b7d073b8e",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/8717b14a.c07648f1.js"
         }
       ]
     },
     "1303": {
       "js": [
         {
-          "file": "assets/js/runtime~main.b1c4c61f.js",
-          "hash": "6b11807a38f4b804",
-          "publicPath": "/badgeuse/assets/js/runtime~main.b1c4c61f.js"
-        }
-      ]
-    },
-    "1430": {
-      "js": [
-        {
-          "file": "assets/js/baddfc09.8dbb8816.js",
-          "hash": "63558f57a5b571ef",
-          "publicPath": "/badgeuse/assets/js/baddfc09.8dbb8816.js"
-        }
-      ]
-    },
-    "1443": {
-      "js": [
-        {
-          "file": "assets/js/396edaba.52004ca4.js",
-          "hash": "9963770e17745338",
-          "publicPath": "/badgeuse/assets/js/396edaba.52004ca4.js"
+          "file": "assets/js/runtime~main.36a3009e.js",
+          "hash": "88d711d5d4a7ec87",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/runtime~main.36a3009e.js"
         }
       ]
     },
@@ -293,34 +266,43 @@
         {
           "file": "assets/js/1506.5c883adf.js",
           "hash": "a3fd2c461b24ce57",
-          "publicPath": "/badgeuse/assets/js/1506.5c883adf.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/1506.5c883adf.js"
+        }
+      ]
+    },
+    "1803": {
+      "js": [
+        {
+          "file": "assets/js/695683c6.992363e7.js",
+          "hash": "e8bc7ea87759cde1",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/695683c6.992363e7.js"
         }
       ]
     },
     "1914": {
       "js": [
         {
-          "file": "assets/js/d9f32620.c1fbf728.js",
-          "hash": "983b61d552b96e35",
-          "publicPath": "/badgeuse/assets/js/d9f32620.c1fbf728.js"
+          "file": "assets/js/d9f32620.f0a10a0d.js",
+          "hash": "3506ecde1d9e2e83",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/d9f32620.f0a10a0d.js"
         }
       ]
     },
     "2267": {
       "js": [
         {
-          "file": "assets/js/59362658.b6d6baff.js",
-          "hash": "63803895d623a04d",
-          "publicPath": "/badgeuse/assets/js/59362658.b6d6baff.js"
+          "file": "assets/js/59362658.159e1386.js",
+          "hash": "6b4c35bcf862c1a6",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/59362658.159e1386.js"
         }
       ]
     },
     "2362": {
       "js": [
         {
-          "file": "assets/js/e273c56f.6c8d2bb5.js",
-          "hash": "14c9c09af66acd6e",
-          "publicPath": "/badgeuse/assets/js/e273c56f.6c8d2bb5.js"
+          "file": "assets/js/e273c56f.8a3e3996.js",
+          "hash": "ac7a5f6f6e1c589d",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/e273c56f.8a3e3996.js"
         }
       ]
     },
@@ -329,43 +311,25 @@
         {
           "file": "assets/js/2529.ea4fa0ac.js",
           "hash": "55d4f2b0b7b5e5af",
-          "publicPath": "/badgeuse/assets/js/2529.ea4fa0ac.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/2529.ea4fa0ac.js"
         }
       ]
     },
     "2535": {
       "js": [
         {
-          "file": "assets/js/814f3328.d742ea41.js",
-          "hash": "6cf2c53a6c3da36a",
-          "publicPath": "/badgeuse/assets/js/814f3328.d742ea41.js"
+          "file": "assets/js/814f3328.f95b3430.js",
+          "hash": "7591ca22a758c1db",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/814f3328.f95b3430.js"
         }
       ]
     },
     "2859": {
       "js": [
         {
-          "file": "assets/js/18c41134.f227bc07.js",
-          "hash": "c2648c82aaa0db63",
-          "publicPath": "/badgeuse/assets/js/18c41134.f227bc07.js"
-        }
-      ]
-    },
-    "2920": {
-      "js": [
-        {
-          "file": "assets/js/d540e024.440cc0d2.js",
-          "hash": "f38400ca2a9a5a07",
-          "publicPath": "/badgeuse/assets/js/d540e024.440cc0d2.js"
-        }
-      ]
-    },
-    "3063": {
-      "js": [
-        {
-          "file": "assets/js/164f637e.d8626f44.js",
-          "hash": "23d364fac59818cd",
-          "publicPath": "/badgeuse/assets/js/164f637e.d8626f44.js"
+          "file": "assets/js/18c41134.e26eb47d.js",
+          "hash": "ac4be46c6c870169",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/18c41134.e26eb47d.js"
         }
       ]
     },
@@ -374,7 +338,7 @@
         {
           "file": "assets/js/1f391b9e.c4c4b114.js",
           "hash": "2e070b3958f6af2e",
-          "publicPath": "/badgeuse/assets/js/1f391b9e.c4c4b114.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/1f391b9e.c4c4b114.js"
         }
       ]
     },
@@ -383,16 +347,16 @@
         {
           "file": "assets/js/a6aa9e1f.56c04a2a.js",
           "hash": "a0d36947bb51f570",
-          "publicPath": "/badgeuse/assets/js/a6aa9e1f.56c04a2a.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/a6aa9e1f.56c04a2a.js"
         }
       ]
     },
     "3514": {
       "js": [
         {
-          "file": "assets/js/73664a40.9f9bc627.js",
-          "hash": "a7235a759992ee22",
-          "publicPath": "/badgeuse/assets/js/73664a40.9f9bc627.js"
+          "file": "assets/js/73664a40.f53131e2.js",
+          "hash": "3fcb92b0ebb628b8",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/73664a40.f53131e2.js"
         }
       ]
     },
@@ -401,16 +365,34 @@
         {
           "file": "assets/js/9e4087bc.904890ca.js",
           "hash": "38807a425f48c056",
-          "publicPath": "/badgeuse/assets/js/9e4087bc.904890ca.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/9e4087bc.904890ca.js"
+        }
+      ]
+    },
+    "3709": {
+      "js": [
+        {
+          "file": "assets/js/87e0ef18.187fa13c.js",
+          "hash": "f90fe35e9dc2db59",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/87e0ef18.187fa13c.js"
         }
       ]
     },
     "3792": {
       "js": [
         {
-          "file": "assets/js/dff1c289.d48fa8b4.js",
-          "hash": "d32e674fd478348f",
-          "publicPath": "/badgeuse/assets/js/dff1c289.d48fa8b4.js"
+          "file": "assets/js/dff1c289.540fcff5.js",
+          "hash": "6211a61074dcceac",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/dff1c289.540fcff5.js"
+        }
+      ]
+    },
+    "3900": {
+      "js": [
+        {
+          "file": "assets/js/a7be05c9.c21e6606.js",
+          "hash": "f3fb48da2fc5b7ec",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/a7be05c9.c21e6606.js"
         }
       ]
     },
@@ -419,16 +401,16 @@
         {
           "file": "assets/js/01a85c17.b55d6393.js",
           "hash": "df3b60d7a2f1f90b",
-          "publicPath": "/badgeuse/assets/js/01a85c17.b55d6393.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/01a85c17.b55d6393.js"
         }
       ]
     },
     "4193": {
       "js": [
         {
-          "file": "assets/js/f55d3e7a.bf1c82f6.js",
-          "hash": "736cb33ce1a5f13e",
-          "publicPath": "/badgeuse/assets/js/f55d3e7a.bf1c82f6.js"
+          "file": "assets/js/f55d3e7a.79ad812a.js",
+          "hash": "f58b5146fc7e5a6a",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/f55d3e7a.79ad812a.js"
         }
       ]
     },
@@ -437,25 +419,25 @@
         {
           "file": "assets/js/c4f5d8e4.901ceafa.js",
           "hash": "96f547f83226619c",
-          "publicPath": "/badgeuse/assets/js/c4f5d8e4.901ceafa.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/c4f5d8e4.901ceafa.js"
         }
       ]
     },
-    "4425": {
+    "4426": {
       "js": [
         {
-          "file": "assets/js/cb805a4a.73bac8d4.js",
-          "hash": "4c8cfcbc699095e3",
-          "publicPath": "/badgeuse/assets/js/cb805a4a.73bac8d4.js"
+          "file": "assets/js/8e94783c.3cb73749.js",
+          "hash": "cf930ceb10b0e026",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/8e94783c.3cb73749.js"
         }
       ]
     },
     "4607": {
       "js": [
         {
-          "file": "assets/js/533a09ca.36219a19.js",
-          "hash": "019c62567629e3f1",
-          "publicPath": "/badgeuse/assets/js/533a09ca.36219a19.js"
+          "file": "assets/js/533a09ca.8876ddb6.js",
+          "hash": "da659ce2816fb292",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/533a09ca.8876ddb6.js"
         }
       ]
     },
@@ -464,7 +446,7 @@
         {
           "file": "assets/js/099bfd89.b71526dd.js",
           "hash": "5ab1b696ae79b3a0",
-          "publicPath": "/badgeuse/assets/js/099bfd89.b71526dd.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/099bfd89.b71526dd.js"
         }
       ]
     },
@@ -473,30 +455,21 @@
         {
           "file": "assets/js/4972.ec0a8e8e.js",
           "hash": "6db26c1ccd382daf",
-          "publicPath": "/badgeuse/assets/js/4972.ec0a8e8e.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/4972.ec0a8e8e.js"
         },
         {
           "file": "assets/js/1be78505.b1982f29.js",
           "hash": "4a2958b81fe78f19",
-          "publicPath": "/badgeuse/assets/js/1be78505.b1982f29.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/1be78505.b1982f29.js"
         }
       ]
     },
     "5589": {
       "js": [
         {
-          "file": "assets/js/5c868d36.39351c28.js",
-          "hash": "717600eff8eb3d87",
-          "publicPath": "/badgeuse/assets/js/5c868d36.39351c28.js"
-        }
-      ]
-    },
-    "5656": {
-      "js": [
-        {
-          "file": "assets/js/02ba0b50.45cede57.js",
-          "hash": "866857dc246a9d47",
-          "publicPath": "/badgeuse/assets/js/02ba0b50.45cede57.js"
+          "file": "assets/js/5c868d36.7f23713f.js",
+          "hash": "1eb74c4edfc359ae",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/5c868d36.7f23713f.js"
         }
       ]
     },
@@ -505,52 +478,61 @@
         {
           "file": "assets/js/ccc49370.838bbb9c.js",
           "hash": "3a5a8ad816e68ff8",
-          "publicPath": "/badgeuse/assets/js/ccc49370.838bbb9c.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/ccc49370.838bbb9c.js"
+        }
+      ]
+    },
+    "6385": {
+      "js": [
+        {
+          "file": "assets/js/1b3136f0.9d8e60c9.js",
+          "hash": "5f1417fa0102cb8c",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/1b3136f0.9d8e60c9.js"
+        }
+      ]
+    },
+    "6433": {
+      "js": [
+        {
+          "file": "assets/js/318f0b91.10eb4b75.js",
+          "hash": "58d291aca256b5f8",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/318f0b91.10eb4b75.js"
         }
       ]
     },
     "6504": {
       "js": [
         {
-          "file": "assets/js/822bd8ab.18a2f7d7.js",
-          "hash": "205d9e8c9bc0c60b",
-          "publicPath": "/badgeuse/assets/js/822bd8ab.18a2f7d7.js"
+          "file": "assets/js/822bd8ab.a73eb204.js",
+          "hash": "024b98c9ee9318ba",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/822bd8ab.a73eb204.js"
         }
       ]
     },
     "6755": {
       "js": [
         {
-          "file": "assets/js/e44a2883.b53dfe3d.js",
-          "hash": "ee11b19404873575",
-          "publicPath": "/badgeuse/assets/js/e44a2883.b53dfe3d.js"
+          "file": "assets/js/e44a2883.659fc75d.js",
+          "hash": "361c8784f26f483b",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/e44a2883.659fc75d.js"
         }
       ]
     },
-    "6971": {
+    "7022": {
       "js": [
         {
-          "file": "assets/js/020fe7be.20bad035.js",
-          "hash": "98ff4a31f31d4708",
-          "publicPath": "/badgeuse/assets/js/020fe7be.20bad035.js"
+          "file": "assets/js/0acd4b7c.875f34b6.js",
+          "hash": "832d20de5ed06b33",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/0acd4b7c.875f34b6.js"
         }
       ]
     },
     "7414": {
       "js": [
         {
-          "file": "assets/js/393be207.2f545db1.js",
-          "hash": "fcb38859af30410b",
-          "publicPath": "/badgeuse/assets/js/393be207.2f545db1.js"
-        }
-      ]
-    },
-    "7418": {
-      "js": [
-        {
-          "file": "assets/js/cb28cfea.7f07ba73.js",
-          "hash": "e43d705fd8b5d62a",
-          "publicPath": "/badgeuse/assets/js/cb28cfea.7f07ba73.js"
+          "file": "assets/js/393be207.4587a3f2.js",
+          "hash": "6439e5e8e109df08",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/393be207.4587a3f2.js"
         }
       ]
     },
@@ -559,7 +541,7 @@
         {
           "file": "assets/js/17896441.a4f99cf8.js",
           "hash": "54dd8e2a195bdf6d",
-          "publicPath": "/badgeuse/assets/js/17896441.a4f99cf8.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/17896441.a4f99cf8.js"
         }
       ]
     },
@@ -568,7 +550,7 @@
         {
           "file": "assets/js/d8448f14.042d317f.js",
           "hash": "ace8d82ce0197878",
-          "publicPath": "/badgeuse/assets/js/d8448f14.042d317f.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/d8448f14.042d317f.js"
         }
       ]
     },
@@ -577,52 +559,52 @@
         {
           "file": "assets/js/6875c492.174c41ca.js",
           "hash": "629824f3cb9538ed",
-          "publicPath": "/badgeuse/assets/js/6875c492.174c41ca.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/6875c492.174c41ca.js"
         }
       ]
     },
     "8636": {
       "js": [
         {
-          "file": "assets/js/f4f34a3a.a12d49b0.js",
-          "hash": "7762d1727f56eb2c",
-          "publicPath": "/badgeuse/assets/js/f4f34a3a.a12d49b0.js"
-        }
-      ]
-    },
-    "8678": {
-      "js": [
-        {
-          "file": "assets/js/5d328de4.30a016bc.js",
-          "hash": "637745b30ca82584",
-          "publicPath": "/badgeuse/assets/js/5d328de4.30a016bc.js"
-        }
-      ]
-    },
-    "8779": {
-      "js": [
-        {
-          "file": "assets/js/7adf1274.99c81b73.js",
-          "hash": "765a62070ac26c20",
-          "publicPath": "/badgeuse/assets/js/7adf1274.99c81b73.js"
+          "file": "assets/js/f4f34a3a.d2f69b06.js",
+          "hash": "10456f8b4f0da0e0",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/f4f34a3a.d2f69b06.js"
         }
       ]
     },
     "8818": {
       "js": [
         {
-          "file": "assets/js/1e4232ab.184ff190.js",
-          "hash": "877a1529a3dba786",
-          "publicPath": "/badgeuse/assets/js/1e4232ab.184ff190.js"
+          "file": "assets/js/1e4232ab.8f26b5b8.js",
+          "hash": "59d4044dd99990aa",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/1e4232ab.8f26b5b8.js"
         }
       ]
     },
     "9003": {
       "js": [
         {
-          "file": "assets/js/925b3f96.62462969.js",
-          "hash": "c48aa498b4e46023",
-          "publicPath": "/badgeuse/assets/js/925b3f96.62462969.js"
+          "file": "assets/js/925b3f96.1aced357.js",
+          "hash": "1212090e635c8edd",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/925b3f96.1aced357.js"
+        }
+      ]
+    },
+    "9080": {
+      "js": [
+        {
+          "file": "assets/js/79fa4bda.62cb6064.js",
+          "hash": "3f6003bd54174e67",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/79fa4bda.62cb6064.js"
+        }
+      ]
+    },
+    "9274": {
+      "js": [
+        {
+          "file": "assets/js/f2a64756.8b5ae8f8.js",
+          "hash": "6d71dc2d73b7999d",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/f2a64756.8b5ae8f8.js"
         }
       ]
     },
@@ -631,25 +613,34 @@
         {
           "file": "assets/js/dc91e49e.236ba8f2.js",
           "hash": "a69250f40cd2a3dd",
-          "publicPath": "/badgeuse/assets/js/dc91e49e.236ba8f2.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/dc91e49e.236ba8f2.js"
+        }
+      ]
+    },
+    "9535": {
+      "js": [
+        {
+          "file": "assets/js/17e680b1.2180fca9.js",
+          "hash": "5d8c68f1237d4ae3",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/17e680b1.2180fca9.js"
         }
       ]
     },
     "9642": {
       "js": [
         {
-          "file": "assets/js/7661071f.e16a4d68.js",
-          "hash": "307750be0a121809",
-          "publicPath": "/badgeuse/assets/js/7661071f.e16a4d68.js"
+          "file": "assets/js/7661071f.41f750cc.js",
+          "hash": "8d6be7ed71dcfa2f",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/7661071f.41f750cc.js"
         }
       ]
     },
     "9671": {
       "js": [
         {
-          "file": "assets/js/0e384e19.0e6a4fda.js",
-          "hash": "072725a733b9efb7",
-          "publicPath": "/badgeuse/assets/js/0e384e19.0e6a4fda.js"
+          "file": "assets/js/0e384e19.77f12fdb.js",
+          "hash": "bfce180209217a6d",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/0e384e19.77f12fdb.js"
         }
       ]
     },
@@ -658,16 +649,25 @@
         {
           "file": "assets/js/14eb3368.8f0084e1.js",
           "hash": "6b79ca1c7f5b11b9",
-          "publicPath": "/badgeuse/assets/js/14eb3368.8f0084e1.js"
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/14eb3368.8f0084e1.js"
         }
       ]
     },
-    "9896": {
+    "9884": {
       "js": [
         {
-          "file": "assets/js/861aafcb.4c87d683.js",
-          "hash": "dd6715e34dcf2c5d",
-          "publicPath": "/badgeuse/assets/js/861aafcb.4c87d683.js"
+          "file": "assets/js/da2c422f.9ed21c22.js",
+          "hash": "3eea5cfaf97c61dd",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/da2c422f.9ed21c22.js"
+        }
+      ]
+    },
+    "9971": {
+      "js": [
+        {
+          "file": "assets/js/971a1553.8d33c934.js",
+          "hash": "103787aa2dda1c68",
+          "publicPath": "/Docusaurus-BadgeuseAustralEnergie/badgeuse/assets/js/971a1553.8d33c934.js"
         }
       ]
     }
