@@ -1,5 +1,5 @@
 {
-  "/blog-234": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog-28b": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "d8448f14"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "e42cde23"
   },
-  "/blog/archive-19e": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/archive-75a": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "d8448f14"
     },
-    "archive": "b2f554cd"
+    "archive": "ac81cb07"
   },
-  "/blog/first-blog-post-786": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/first-blog-post-49e": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d8448f14"
@@ -36,7 +36,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/blog/long-blog-post-e45": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/long-blog-post-8a6": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d8448f14"
@@ -44,7 +44,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/blog/mdx-blog-post-260": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/mdx-blog-post-079": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d8448f14"
@@ -52,15 +52,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/blog/tags-eb9": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/tags-c48": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "d8448f14"
     },
     "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "tags": "dc9bb6f6"
   },
-  "/blog/tags/docusaurus-bd8": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/tags/docusaurus-6b7": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d8448f14"
@@ -80,10 +80,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "7d35144c",
+    "listMetadata": "1a4a85e0"
   },
-  "/blog/tags/facebook-129": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/tags/facebook-75e": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d8448f14"
@@ -94,10 +94,10 @@
         "content": "7661071f"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "ef2ce573",
+    "listMetadata": "6d830ed6"
   },
-  "/blog/tags/hello-4aa": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hello-1be": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d8448f14"
@@ -111,10 +111,10 @@
         "content": "8717b14a"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "c0910993",
+    "listMetadata": "52ff069d"
   },
-  "/blog/tags/hola-37a": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hola-ee4": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "d8448f14"
@@ -125,10 +125,10 @@
         "content": "925b3f96"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "cc3c1198",
+    "listMetadata": "123a3af4"
   },
-  "/blog/welcome-e9f": {
+  "/Docusaurus-BadgeuseAustralEnergie/blog/welcome-d12": {
     "__comp": "ccc49370",
     "__context": {
       "plugin": "d8448f14"
@@ -136,65 +136,65 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/markdown-page-fcd": {
+  "/Docusaurus-BadgeuseAustralEnergie/markdown-page-2cd": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "099bfd89"
     },
     "content": "393be207"
   },
-  "/docs-f89": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs-656": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "dc91e49e"
     },
     "versionMetadata": "935f2afb"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics-9c8": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "ea88f2a1"
+    "categoryGeneratedIndex": "61b03f74"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras-04d": {
     "__comp": "14eb3368",
-    "categoryGeneratedIndex": "c844b82d"
+    "categoryGeneratedIndex": "6382dd26"
   },
-  "/docs/intro-aed": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/intro-19e": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/docs/tutorial-basics/congratulations-793": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/congratulations-410": {
     "__comp": "17896441",
     "content": "822bd8ab"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-blog-post-5e5": {
     "__comp": "17896441",
     "content": "533a09ca"
   },
-  "/docs/tutorial-basics/create-a-document-c2d": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-document-000": {
     "__comp": "17896441",
     "content": "1e4232ab"
   },
-  "/docs/tutorial-basics/create-a-page-f44": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-page-5b6": {
     "__comp": "17896441",
     "content": "5c868d36"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/deploy-your-site-f4a": {
     "__comp": "17896441",
     "content": "f55d3e7a"
   },
-  "/docs/tutorial-basics/markdown-features-4b7": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/markdown-features-a38": {
     "__comp": "17896441",
     "content": "18c41134"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/manage-docs-versions-fb8": {
     "__comp": "17896441",
     "content": "dff1c289"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
+  "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/translate-your-site-a66": {
     "__comp": "17896441",
     "content": "e44a2883"
   },
-  "/-006": {
+  "/Docusaurus-BadgeuseAustralEnergie/-964": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "099bfd89"

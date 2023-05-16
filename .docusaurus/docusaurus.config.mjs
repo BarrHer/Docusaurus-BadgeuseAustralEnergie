@@ -8,7 +8,7 @@ export default {
   "tagline": "Austral Energie",
   "favicon": "img/favicon.ico",
   "url": "https://barrher.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/Docusaurus-BadgeuseAustralEnergie/",
   "organizationName": "BarrHer",
   "projectName": "Docusaurus-BadgeuseAustralEnergie",
   "onBrokenLinks": "throw",
