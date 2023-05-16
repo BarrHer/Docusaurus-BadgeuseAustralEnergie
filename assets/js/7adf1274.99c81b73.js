@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbadgeuse=self.webpackChunkbadgeuse||[]).push([[8779],{5172:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/badgeuse/blog/tags/hola","allTagsPath":"/badgeuse/blog/tags","count":1}')}}]);
