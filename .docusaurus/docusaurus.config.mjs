@@ -9,8 +9,8 @@ export default {
   "favicon": "img/favicon.ico",
   "url": "https://BarrHer.github.io",
   "baseUrl": "/badgeuse/",
-  "organizationName": "AustralEnergie",
-  "projectName": "docusaurus",
+  "organizationName": "BarrHer",
+  "projectName": "Docusaurus-BadgeuseAustralEnergie",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
