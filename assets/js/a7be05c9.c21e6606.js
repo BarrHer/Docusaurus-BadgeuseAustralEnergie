@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbadgeuse=self.webpackChunkbadgeuse||[]).push([[3900],{6257:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags/hola","allTagsPath":"/Docusaurus-BadgeuseAustralEnergie/badgeuse/blog/tags","count":1}')}}]);
