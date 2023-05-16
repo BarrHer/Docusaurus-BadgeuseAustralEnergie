@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbadgeuse=self.webpackChunkbadgeuse||[]).push([[8394],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);

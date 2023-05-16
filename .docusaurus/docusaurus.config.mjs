@@ -26,13 +26,13 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/Docusaurus-BadgeuseAustralEnergie/sidebars.js"
+          "sidebarPath": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/badgeuse/Docusaurus-BadgeuseAustralEnergie/sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/Docusaurus-BadgeuseAustralEnergie/src/css/custom.css"
+          "customCss": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/badgeuse/Docusaurus-BadgeuseAustralEnergie/src/css/custom.css"
         }
       }
     ]
