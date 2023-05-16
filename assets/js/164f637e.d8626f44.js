@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbadgeuse=self.webpackChunkbadgeuse||[]).push([[3063],{9646:e=>{e.exports=JSON.parse('{"permalink":"/badgeuse/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
