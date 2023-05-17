@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Features/gestion-abscences",
+  "id": "Features/gestion-abscences",
+  "title": "📅 Gestion des absences",
+  "description": "Les employés peuvent soumettre des demandes de congés ou de repos directement à travers l'application. Les gestionnaires peuvent ensuite approuver ou rejeter ces demandes, assurant ainsi une gestion centralisée et transparente des congés et des repos.",
+  "source": "@site/docs/Features/gestion-abscences.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/gestion-abscences",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "📅 Gestion des absences"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👨🏽‍💻 Gestion des heures supplémentaires",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime"
+  }
+}

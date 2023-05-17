@@ -1,0 +1,26 @@
+{
+  "unversionedId": "Calculs/Temps_de_Travail",
+  "id": "Calculs/Temps_de_Travail",
+  "title": "Temps_de_Travail",
+  "description": "Temps de travail pour un jour = (Heure de sortie - Heure d'entrée) - Temps de pause",
+  "source": "@site/docs/Calculs/Temps_de_Travail.md",
+  "sourceDirName": "Calculs",
+  "slug": "/Calculs/Temps_de_Travail",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/Temps_de_Travail",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "heures-sup",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup"
+  },
+  "next": {
+    "title": "Présentation",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/intro"
+  }
+}

@@ -9,14 +9,218 @@
           "badge": false,
           "noIndex": false,
           "className": "docs-version-current",
-          "path": "/badgeuse/docs",
-          "tagsPath": "/badgeuse/docs/tags",
+          "path": "/Docusaurus-BadgeuseAustralEnergie/docs",
+          "tagsPath": "/Docusaurus-BadgeuseAustralEnergie/docs/tags",
           "isLast": true,
           "routePriority": -1,
-          "sidebarFilePath": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/Docusaurus-BadgeuseAustralEnergie/sidebars.js",
-          "contentPath": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/Docusaurus-BadgeuseAustralEnergie/docs",
-          "contentPathLocalized": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/Docusaurus-BadgeuseAustralEnergie/i18n/fr/docusaurus-plugin-content-docs/current",
+          "sidebarFilePath": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/badgeuse/Docusaurus-BadgeuseAustralEnergie/sidebars.js",
+          "contentPath": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/badgeuse/Docusaurus-BadgeuseAustralEnergie/docs",
+          "contentPathLocalized": "/Users/barretherve/Documents/Austral Solar/Dev/Docusaurus/badgeuse/Docusaurus-BadgeuseAustralEnergie/i18n/fr/docusaurus-plugin-content-docs/current",
           "docs": [
+            {
+              "unversionedId": "Alertes/anomalies",
+              "id": "Alertes/anomalies",
+              "title": "anomalies",
+              "description": "",
+              "source": "@site/docs/Alertes/anomalies.md",
+              "sourceDirName": "Alertes",
+              "slug": "/Alertes/anomalies",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Alertes",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
+              },
+              "next": {
+                "title": "overtime",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime"
+              }
+            },
+            {
+              "unversionedId": "Alertes/overtime",
+              "id": "Alertes/overtime",
+              "title": "overtime",
+              "description": "test",
+              "source": "@site/docs/Alertes/overtime.md",
+              "sourceDirName": "Alertes",
+              "slug": "/Alertes/overtime",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "anomalies",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies"
+              },
+              "next": {
+                "title": "📝 Pointage",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage"
+              }
+            },
+            {
+              "unversionedId": "Calculs/heures-sup",
+              "id": "Calculs/heures-sup",
+              "title": "🪪 Heures supplémentaires",
+              "description": "Heures supplémentaires = Temps de travail du mois - Seuil horaire mensuel + solde des heures supplémentaires du mois précédent",
+              "source": "@site/docs/Calculs/heures-sup.md",
+              "sourceDirName": "Calculs",
+              "slug": "/Calculs/heures-sup",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "🪪 Heures supplémentaires"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "⏰ Temps de travail",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/temps-de-travail"
+              },
+              "next": {
+                "title": "📦 Solde",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/solde"
+              }
+            },
+            {
+              "unversionedId": "Calculs/solde",
+              "id": "Calculs/solde",
+              "title": "📦 Solde",
+              "description": "Solde d'heures sup = somme des heures supplémentaires de chaque mois - somme des heures supplémentaires payées de chaque mois",
+              "source": "@site/docs/Calculs/solde.md",
+              "sourceDirName": "Calculs",
+              "slug": "/Calculs/solde",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/solde",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "📦 Solde"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "🪪 Heures supplémentaires",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup"
+              },
+              "next": {
+                "title": "Tutorial - Basics",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics"
+              }
+            },
+            {
+              "unversionedId": "Calculs/temps-de-travail",
+              "id": "Calculs/temps-de-travail",
+              "title": "⏰ Temps de travail",
+              "description": "Temps de travail pour un jour = (Heure de sortie - Heure d'entrée) - Temps de pause",
+              "source": "@site/docs/Calculs/temps-de-travail.md",
+              "sourceDirName": "Calculs",
+              "slug": "/Calculs/temps-de-travail",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/temps-de-travail",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "⏰ Temps de travail"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Calculs de base",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base"
+              },
+              "next": {
+                "title": "🪪 Heures supplémentaires",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup"
+              }
+            },
+            {
+              "unversionedId": "Features/calcul-overtime",
+              "id": "Features/calcul-overtime",
+              "title": "👨🏽‍💻 Gestion des heures supplémentaires",
+              "description": "L'application calcule automatiquement les heures supplémentaires en fonction des heures d'entrée et de sortie des employés. Elle tient compte des heures de travail régulières, des seuils horaires et des règles de calcul des heures supplémentaires conformément aux réglementations en vigueur. Les administrateurs peuvent également modifier manuellement les heures supplémentaires si nécessaire.",
+              "source": "@site/docs/Features/calcul-overtime.md",
+              "sourceDirName": "Features",
+              "slug": "/Features/calcul-overtime",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "👨🏽‍💻 Gestion des heures supplémentaires"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "📝 Pointage",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage"
+              },
+              "next": {
+                "title": "📅 Gestion des absences",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences"
+              }
+            },
+            {
+              "unversionedId": "Features/gestion-abscences",
+              "id": "Features/gestion-abscences",
+              "title": "📅 Gestion des absences",
+              "description": "Les employés peuvent soumettre des demandes de congés ou de repos directement à travers l'application. Les gestionnaires peuvent ensuite approuver ou rejeter ces demandes, assurant ainsi une gestion centralisée et transparente des congés et des repos.",
+              "source": "@site/docs/Features/gestion-abscences.md",
+              "sourceDirName": "Features",
+              "slug": "/Features/gestion-abscences",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "📅 Gestion des absences"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "👨🏽‍💻 Gestion des heures supplémentaires",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime"
+              }
+            },
+            {
+              "unversionedId": "Features/pointage",
+              "id": "Features/pointage",
+              "title": "📝 Pointage",
+              "description": "Les employés peuvent facilement pointer leurs heures d'entrée et de sortie en utilisant l'application. Pour cela, ils leur suffit d'entrer leur code de badge et l'application enregistre automatiquement l'heure d'entrée ou de sortie, selon l'heure où ils ont pointé.",
+              "source": "@site/docs/Features/pointage.md",
+              "sourceDirName": "Features",
+              "slug": "/Features/pointage",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "📝 Pointage"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "overtime",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime"
+              },
+              "next": {
+                "title": "👨🏽‍💻 Gestion des heures supplémentaires",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime"
+              }
+            },
             {
               "unversionedId": "intro",
               "id": "intro",
@@ -25,7 +229,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
-              "permalink": "/badgeuse/docs/intro",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/intro",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -35,8 +239,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/badgeuse/docs/category/tutorial---basics"
+                "title": "Calculs de base",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base"
               }
             },
             {
@@ -47,7 +251,7 @@
               "source": "@site/docs/tutorial-basics/congratulations.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/congratulations",
-              "permalink": "/badgeuse/docs/tutorial-basics/congratulations",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/congratulations",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -58,11 +262,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Deploy your site",
-                "permalink": "/badgeuse/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/deploy-your-site"
               },
               "next": {
                 "title": "Tutorial - Extras",
-                "permalink": "/badgeuse/docs/category/tutorial---extras"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras"
               }
             },
             {
@@ -73,7 +277,7 @@
               "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/badgeuse/docs/tutorial-basics/create-a-blog-post",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-blog-post",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -84,11 +288,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Document",
-                "permalink": "/badgeuse/docs/tutorial-basics/create-a-document"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-document"
               },
               "next": {
                 "title": "Markdown Features",
-                "permalink": "/badgeuse/docs/tutorial-basics/markdown-features"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/markdown-features"
               }
             },
             {
@@ -99,7 +303,7 @@
               "source": "@site/docs/tutorial-basics/create-a-document.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/badgeuse/docs/tutorial-basics/create-a-document",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-document",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -110,11 +314,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Page",
-                "permalink": "/badgeuse/docs/tutorial-basics/create-a-page"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-page"
               },
               "next": {
                 "title": "Create a Blog Post",
-                "permalink": "/badgeuse/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-blog-post"
               }
             },
             {
@@ -125,7 +329,7 @@
               "source": "@site/docs/tutorial-basics/create-a-page.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/badgeuse/docs/tutorial-basics/create-a-page",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-page",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -136,11 +340,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Basics",
-                "permalink": "/badgeuse/docs/category/tutorial---basics"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics"
               },
               "next": {
                 "title": "Create a Document",
-                "permalink": "/badgeuse/docs/tutorial-basics/create-a-document"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-document"
               }
             },
             {
@@ -151,7 +355,7 @@
               "source": "@site/docs/tutorial-basics/deploy-your-site.md",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/badgeuse/docs/tutorial-basics/deploy-your-site",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/deploy-your-site",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -162,11 +366,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Markdown Features",
-                "permalink": "/badgeuse/docs/tutorial-basics/markdown-features"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/markdown-features"
               },
               "next": {
                 "title": "Congratulations!",
-                "permalink": "/badgeuse/docs/tutorial-basics/congratulations"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/congratulations"
               }
             },
             {
@@ -177,7 +381,7 @@
               "source": "@site/docs/tutorial-basics/markdown-features.mdx",
               "sourceDirName": "tutorial-basics",
               "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/badgeuse/docs/tutorial-basics/markdown-features",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/markdown-features",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -188,11 +392,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Create a Blog Post",
-                "permalink": "/badgeuse/docs/tutorial-basics/create-a-blog-post"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-blog-post"
               },
               "next": {
                 "title": "Deploy your site",
-                "permalink": "/badgeuse/docs/tutorial-basics/deploy-your-site"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/deploy-your-site"
               }
             },
             {
@@ -203,7 +407,7 @@
               "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/badgeuse/docs/tutorial-extras/manage-docs-versions",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/manage-docs-versions",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -214,11 +418,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Tutorial - Extras",
-                "permalink": "/badgeuse/docs/category/tutorial---extras"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras"
               },
               "next": {
                 "title": "Translate your site",
-                "permalink": "/badgeuse/docs/tutorial-extras/translate-your-site"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/translate-your-site"
               }
             },
             {
@@ -229,7 +433,7 @@
               "source": "@site/docs/tutorial-extras/translate-your-site.md",
               "sourceDirName": "tutorial-extras",
               "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/badgeuse/docs/tutorial-extras/translate-your-site",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/translate-your-site",
               "draft": false,
               "tags": [],
               "version": "current",
@@ -240,7 +444,11 @@
               "sidebar": "tutorialSidebar",
               "previous": {
                 "title": "Manage Docs Versions",
-                "permalink": "/badgeuse/docs/tutorial-extras/manage-docs-versions"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/manage-docs-versions"
+              },
+              "next": {
+                "title": "Alertes",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
               }
             }
           ],
@@ -250,6 +458,31 @@
               {
                 "type": "doc",
                 "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Calculs de base",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Calculs/temps-de-travail"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Calculs/heures-sup"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Calculs/solde"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/calculs-de-base",
+                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base"
+                }
               },
               {
                 "type": "category",
@@ -286,7 +519,7 @@
                   "type": "generated-index",
                   "description": "5 minutes to learn the most important Docusaurus concepts.",
                   "slug": "/category/tutorial---basics",
-                  "permalink": "/badgeuse/docs/category/tutorial---basics"
+                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics"
                 }
               },
               {
@@ -307,8 +540,49 @@
                 "link": {
                   "type": "generated-index",
                   "slug": "/category/tutorial---extras",
-                  "permalink": "/badgeuse/docs/category/tutorial---extras"
+                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras"
                 }
+              },
+              {
+                "type": "category",
+                "label": "Alertes",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Alertes/anomalies"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Alertes/overtime"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/alertes",
+                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Features",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Features/pointage"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Features/calcul-overtime"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Features/gestion-abscences"
+                  }
+                ]
               }
             ]
           }
@@ -323,7 +597,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/badgeuse/blog/welcome",
+            "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/welcome",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
             "description": "Docusaurus blogging features are powered by the blog plugin.",
@@ -332,15 +606,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/badgeuse/blog/tags/facebook"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/badgeuse/blog/tags/hello"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/badgeuse/blog/tags/docusaurus"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.405,
@@ -376,7 +650,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/badgeuse/blog/mdx-blog-post"
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/mdx-blog-post"
             }
           },
           "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -384,7 +658,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/badgeuse/blog/mdx-blog-post",
+            "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/mdx-blog-post",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
             "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
@@ -393,7 +667,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/badgeuse/blog/tags/docusaurus"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.175,
@@ -419,11 +693,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/badgeuse/blog/welcome"
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/badgeuse/blog/long-blog-post"
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/long-blog-post"
             }
           },
           "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -431,7 +705,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/badgeuse/blog/long-blog-post",
+            "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/long-blog-post",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
             "description": "This is the summary of a very long blog post,",
@@ -440,11 +714,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/badgeuse/blog/tags/hello"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/badgeuse/blog/tags/docusaurus"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -469,11 +743,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/badgeuse/blog/mdx-blog-post"
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/badgeuse/blog/first-blog-post"
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -481,7 +755,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/badgeuse/blog/first-blog-post",
+            "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/first-blog-post",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
@@ -490,11 +764,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/badgeuse/blog/tags/hola"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/badgeuse/blog/tags/docusaurus"
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -525,7 +799,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/badgeuse/blog/long-blog-post"
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -540,7 +814,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/badgeuse/blog",
+            "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -551,19 +825,19 @@
         }
       ],
       "blogTags": {
-        "/badgeuse/blog/tags/facebook": {
+        "/Docusaurus-BadgeuseAustralEnergie/blog/tags/facebook": {
           "label": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/badgeuse/blog/tags/facebook",
+          "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/badgeuse/blog/tags/facebook",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -574,13 +848,13 @@
             }
           ]
         },
-        "/badgeuse/blog/tags/hello": {
+        "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hello": {
           "label": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/badgeuse/blog/tags/hello",
+          "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -588,7 +862,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/badgeuse/blog/tags/hello",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -599,7 +873,7 @@
             }
           ]
         },
-        "/badgeuse/blog/tags/docusaurus": {
+        "/Docusaurus-BadgeuseAustralEnergie/blog/tags/docusaurus": {
           "label": "docusaurus",
           "items": [
             "welcome",
@@ -607,7 +881,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/badgeuse/blog/tags/docusaurus",
+          "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -617,7 +891,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/badgeuse/blog/tags/docusaurus",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -628,19 +902,19 @@
             }
           ]
         },
-        "/badgeuse/blog/tags/hola": {
+        "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hola": {
           "label": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/badgeuse/blog/tags/hola",
+          "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/badgeuse/blog/tags/hola",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -652,19 +926,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/badgeuse/blog/tags"
+      "blogTagsListPath": "/Docusaurus-BadgeuseAustralEnergie/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/badgeuse/",
+        "permalink": "/Docusaurus-BadgeuseAustralEnergie/",
         "source": "@site/src/pages/index.js"
       },
       {
         "type": "mdx",
-        "permalink": "/badgeuse/markdown-page",
+        "permalink": "/Docusaurus-BadgeuseAustralEnergie/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

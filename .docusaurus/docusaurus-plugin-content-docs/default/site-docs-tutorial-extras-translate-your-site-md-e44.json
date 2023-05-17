@@ -18,5 +18,9 @@
   "previous": {
     "title": "Manage Docs Versions",
     "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/manage-docs-versions"
+  },
+  "next": {
+    "title": "Alertes",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
   }
 }

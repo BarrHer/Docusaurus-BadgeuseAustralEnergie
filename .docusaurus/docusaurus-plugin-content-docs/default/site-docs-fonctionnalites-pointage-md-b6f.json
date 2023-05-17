@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Fonctionnalités/pointage",
+  "id": "Fonctionnalités/pointage",
+  "title": "📝 Pointage",
+  "description": "Les employés peuvent facilement pointer leurs heures d'entrée et de sortie en utilisant l'application. Pour cela, ils leur suffit d'entrer leur code de badge et l'application enregistre automatiquement l'heure d'entrée ou de sortie, selon l'heure où ils ont pointé.",
+  "source": "@site/docs/Fonctionnalités/pointage.md",
+  "sourceDirName": "Fonctionnalités",
+  "slug": "/Fonctionnalités/pointage",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Fonctionnalités/pointage",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "📝 Pointage"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "overtime",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime"
+  },
+  "next": {
+    "title": "👨🏽‍💻 Gestion des heures supplémentaires",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Fonctionnalités/calcul-overtime"
+  }
+}

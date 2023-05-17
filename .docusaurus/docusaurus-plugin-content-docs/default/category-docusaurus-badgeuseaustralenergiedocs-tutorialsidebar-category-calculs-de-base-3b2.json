@@ -1,0 +1,15 @@
+{
+  "title": "Calculs de base",
+  "slug": "/category/calculs-de-base",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base",
+  "navigation": {
+    "previous": {
+      "title": "Présentation",
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/intro"
+    },
+    "next": {
+      "title": "⏰ Temps de travail",
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/temps-de-travail"
+    }
+  }
+}

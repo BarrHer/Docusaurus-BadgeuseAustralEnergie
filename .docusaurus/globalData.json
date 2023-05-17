@@ -11,6 +11,46 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "Alertes/anomalies",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Alertes/overtime",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Calculs/heures-sup",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Calculs/solde",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/solde",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Calculs/temps-de-travail",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/temps-de-travail",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Features/calcul-overtime",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Features/gestion-abscences",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Features/pointage",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/Docusaurus-BadgeuseAustralEnergie/docs/intro",
               "sidebar": "tutorialSidebar"
@@ -56,6 +96,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "/category/calculs-de-base",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/tutorial---basics",
               "path": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics",
               "sidebar": "tutorialSidebar"
@@ -63,6 +108,11 @@
             {
               "id": "/category/tutorial---extras",
               "path": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/alertes",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes",
               "sidebar": "tutorialSidebar"
             }
           ],

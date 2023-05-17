@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Calculs/solde",
+  "id": "Calculs/solde",
+  "title": "📦 Solde",
+  "description": "Solde d'heures sup = somme des heures supplémentaires de chaque mois - somme des heures supplémentaires payées de chaque mois",
+  "source": "@site/docs/Calculs/solde.md",
+  "sourceDirName": "Calculs",
+  "slug": "/Calculs/solde",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/solde",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "📦 Solde"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🪪 Heures supplémentaires",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics"
+  }
+}

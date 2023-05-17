@@ -64,8 +64,50 @@ export default [
   },
   {
     path: '/Docusaurus-BadgeuseAustralEnergie/docs',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs', '656'),
+    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs', '256'),
     routes: [
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies', 'fb2'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime', 'a9c'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup', '198'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/solde',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/solde', 'f60'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/temps-de-travail',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/temps-de-travail', '5c9'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes', '903'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base', '73d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
       {
         path: '/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics',
         component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics', '9c8'),
@@ -75,6 +117,24 @@ export default [
       {
         path: '/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras',
         component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras', '04d'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime', 'dff'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences', '158'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage', '599'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

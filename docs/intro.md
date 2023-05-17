@@ -16,25 +16,11 @@ L'application calcule automatiquement les heures supplémentaires en fonction de
 
 Le calcul des heures supplémentaires est basé sur les règles suivantes :
 
-- Le temps de travail est calculé pour le mois en cours.
-Pour chaque jours, on calcul le temps de travail en fonction des pointages d'entrée et de sortie, et on soustrait le temps de pause. (par défaut 45min)
+- Le [temps de travail](calculs/temps-de-travail) est calculé pour le mois en cours.
+- Les [heures supplémentaires](calculs/heures-sup) sont calculées pour le mois en cours.
+- Le [solde des heures supplémentaires](calculs/solde) est ajouté au calcul des heures supplémentaires du mois en cours.
 
-:::info 
-**Temps de travail pour un jour** = (Heure de sortie - Heure d'entrée) - Temps de pause
-
-**Temps de travail pour un mois** = Somme des temps de travail pour chaque jour du mois
-:::
-
-- Les heures supplémentaires sont calculées en fonction du temps de travail et des seuils horaires suivant le statut de l'employé (Chef d'équipe ou non).
-
-- [x] Sueil horaire Chef d'équipe = **169h/mois** (39h/semaine)
-- [x] Sueil horaire Employé = **151h 40min/mois** (35h/semaine)
-
-:::info 
-**Heures supplémentaires** = Temps de travail du mois - Seuil horaire mensuel + solde des heures supplémentaires du mois précédent
-:::
-
-Chaque premiers du mois, un mail récapitulatif est envoyé à la partie technique avec le détail des heures supplémentaires de chaque employé.
+Chaque premiers du mois, un mail récapitulatif est envoyé à la partie technique avec le détail des heures supplémentaires de chaque employé. (voir [Alertes](category/alertes))
 
 ### 3. Gestion des congés et des repos
 Les employés peuvent soumettre des demandes de congés ou de repos directement à travers l'application. Les gestionnaires peuvent ensuite approuver ou rejeter ces demandes, assurant ainsi une gestion centralisée et transparente des congés et des repos.

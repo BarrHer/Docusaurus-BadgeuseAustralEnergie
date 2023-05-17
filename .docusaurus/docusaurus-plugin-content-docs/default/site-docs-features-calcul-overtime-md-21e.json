@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Features/calcul-overtime",
+  "id": "Features/calcul-overtime",
+  "title": "👨🏽‍💻 Gestion des heures supplémentaires",
+  "description": "L'application calcule automatiquement les heures supplémentaires en fonction des heures d'entrée et de sortie des employés. Elle tient compte des heures de travail régulières, des seuils horaires et des règles de calcul des heures supplémentaires conformément aux réglementations en vigueur. Les administrateurs peuvent également modifier manuellement les heures supplémentaires si nécessaire.",
+  "source": "@site/docs/Features/calcul-overtime.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/calcul-overtime",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "👨🏽‍💻 Gestion des heures supplémentaires"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📝 Pointage",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage"
+  },
+  "next": {
+    "title": "📅 Gestion des absences",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences"
+  }
+}

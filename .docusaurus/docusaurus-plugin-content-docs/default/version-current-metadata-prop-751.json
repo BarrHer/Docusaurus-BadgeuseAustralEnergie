@@ -17,6 +17,33 @@
       },
       {
         "type": "category",
+        "label": "Calculs de base",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "⏰ Temps de travail",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/temps-de-travail",
+            "docId": "Calculs/temps-de-travail"
+          },
+          {
+            "type": "link",
+            "label": "🪪 Heures supplémentaires",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup",
+            "docId": "Calculs/heures-sup"
+          },
+          {
+            "type": "link",
+            "label": "📦 Solde",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/solde",
+            "docId": "Calculs/solde"
+          }
+        ],
+        "href": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base"
+      },
+      {
+        "type": "category",
         "label": "Tutorial - Basics",
         "collapsible": true,
         "collapsed": true,
@@ -80,10 +107,105 @@
           }
         ],
         "href": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras"
+      },
+      {
+        "type": "category",
+        "label": "Alertes",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "anomalies",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies",
+            "docId": "Alertes/anomalies"
+          },
+          {
+            "type": "link",
+            "label": "overtime",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime",
+            "docId": "Alertes/overtime"
+          }
+        ],
+        "href": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
+      },
+      {
+        "type": "category",
+        "label": "Features",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "📝 Pointage",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage",
+            "docId": "Features/pointage"
+          },
+          {
+            "type": "link",
+            "label": "👨🏽‍💻 Gestion des heures supplémentaires",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime",
+            "docId": "Features/calcul-overtime"
+          },
+          {
+            "type": "link",
+            "label": "📅 Gestion des absences",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences",
+            "docId": "Features/gestion-abscences"
+          }
+        ]
       }
     ]
   },
   "docs": {
+    "Alertes/anomalies": {
+      "id": "Alertes/anomalies",
+      "title": "anomalies",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "Alertes/overtime": {
+      "id": "Alertes/overtime",
+      "title": "overtime",
+      "description": "test",
+      "sidebar": "tutorialSidebar"
+    },
+    "Calculs/heures-sup": {
+      "id": "Calculs/heures-sup",
+      "title": "🪪 Heures supplémentaires",
+      "description": "Heures supplémentaires = Temps de travail du mois - Seuil horaire mensuel + solde des heures supplémentaires du mois précédent",
+      "sidebar": "tutorialSidebar"
+    },
+    "Calculs/solde": {
+      "id": "Calculs/solde",
+      "title": "📦 Solde",
+      "description": "Solde d'heures sup = somme des heures supplémentaires de chaque mois - somme des heures supplémentaires payées de chaque mois",
+      "sidebar": "tutorialSidebar"
+    },
+    "Calculs/temps-de-travail": {
+      "id": "Calculs/temps-de-travail",
+      "title": "⏰ Temps de travail",
+      "description": "Temps de travail pour un jour = (Heure de sortie - Heure d'entrée) - Temps de pause",
+      "sidebar": "tutorialSidebar"
+    },
+    "Features/calcul-overtime": {
+      "id": "Features/calcul-overtime",
+      "title": "👨🏽‍💻 Gestion des heures supplémentaires",
+      "description": "L'application calcule automatiquement les heures supplémentaires en fonction des heures d'entrée et de sortie des employés. Elle tient compte des heures de travail régulières, des seuils horaires et des règles de calcul des heures supplémentaires conformément aux réglementations en vigueur. Les administrateurs peuvent également modifier manuellement les heures supplémentaires si nécessaire.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Features/gestion-abscences": {
+      "id": "Features/gestion-abscences",
+      "title": "📅 Gestion des absences",
+      "description": "Les employés peuvent soumettre des demandes de congés ou de repos directement à travers l'application. Les gestionnaires peuvent ensuite approuver ou rejeter ces demandes, assurant ainsi une gestion centralisée et transparente des congés et des repos.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Features/pointage": {
+      "id": "Features/pointage",
+      "title": "📝 Pointage",
+      "description": "Les employés peuvent facilement pointer leurs heures d'entrée et de sortie en utilisant l'application. Pour cela, ils leur suffit d'entrer leur code de badge et l'application enregistre automatiquement l'heure d'entrée ou de sortie, selon l'heure où ils ont pointé.",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Présentation",

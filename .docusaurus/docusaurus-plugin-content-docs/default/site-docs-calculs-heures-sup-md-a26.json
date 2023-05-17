@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Calculs/heures-sup",
+  "id": "Calculs/heures-sup",
+  "title": "🪪 Heures supplémentaires",
+  "description": "Heures supplémentaires = Temps de travail du mois - Seuil horaire mensuel + solde des heures supplémentaires du mois précédent",
+  "source": "@site/docs/Calculs/heures-sup.md",
+  "sourceDirName": "Calculs",
+  "slug": "/Calculs/heures-sup",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "🪪 Heures supplémentaires"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⏰ Temps de travail",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/temps-de-travail"
+  },
+  "next": {
+    "title": "📦 Solde",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/solde"
+  }
+}

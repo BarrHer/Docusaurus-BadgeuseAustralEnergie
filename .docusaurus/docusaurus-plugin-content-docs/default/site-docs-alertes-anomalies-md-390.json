@@ -1,0 +1,23 @@
+{
+  "unversionedId": "Alertes/anomalies",
+  "id": "Alertes/anomalies",
+  "title": "anomalies",
+  "description": "",
+  "source": "@site/docs/Alertes/anomalies.md",
+  "sourceDirName": "Alertes",
+  "slug": "/Alertes/anomalies",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Alertes",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
+  },
+  "next": {
+    "title": "overtime",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime"
+  }
+}
