@@ -1,0 +1,15 @@
+{
+  "title": "Fonctionnalités",
+  "slug": "/category/fonctionnalités",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/fonctionnalités",
+  "navigation": {
+    "previous": {
+      "title": "overtime",
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime"
+    },
+    "next": {
+      "title": "📝 Pointage",
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage"
+    }
+  }
+}

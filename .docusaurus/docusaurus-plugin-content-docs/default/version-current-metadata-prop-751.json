@@ -11,13 +11,64 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Présentation",
+        "label": "🏠 Présentation",
         "href": "/Docusaurus-BadgeuseAustralEnergie/docs/intro",
         "docId": "intro"
       },
       {
         "type": "category",
-        "label": "Calculs de base",
+        "label": "📚 Fonctionnalites",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "👷🏼‍♂️ Gestion des employés",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-users",
+            "docId": "Features/gestion-users"
+          },
+          {
+            "type": "link",
+            "label": "📝 Pointage",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage",
+            "docId": "Features/pointage"
+          },
+          {
+            "type": "link",
+            "label": "👨🏽‍💻 Gestion des heures supplémentaires",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime",
+            "docId": "Features/calcul-overtime"
+          },
+          {
+            "type": "link",
+            "label": "📅 Gestion des absences",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences",
+            "docId": "Features/gestion-abscences"
+          },
+          {
+            "type": "link",
+            "label": "⚙️ Gestion des seuils",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils",
+            "docId": "Features/gestion-sueils"
+          },
+          {
+            "type": "link",
+            "label": "👥 Gestion des équipes",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams",
+            "docId": "Features/gestion-teams"
+          },
+          {
+            "type": "link",
+            "label": "📊 Gestion des heures sup",
+            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-heures-sup",
+            "docId": "Features/gestion-heures-sup"
+          }
+        ],
+        "href": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites"
+      },
+      {
+        "type": "category",
+        "label": "🧮 Calculs de base",
         "collapsible": true,
         "collapsed": true,
         "items": [
@@ -40,68 +91,42 @@
             "docId": "Calculs/solde"
           }
         ],
-        "href": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base"
+        "href": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-calculs-de-base"
       },
       {
         "type": "category",
-        "label": "Alertes",
+        "label": "🚨 Alertes",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "anomalies",
+            "label": "⛔️ Anomalies",
             "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies",
             "docId": "Alertes/anomalies"
           },
           {
             "type": "link",
-            "label": "overtime",
+            "label": "📊 Récapitulatif heures supplémentaires",
             "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime",
             "docId": "Alertes/overtime"
           }
         ],
-        "href": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
-      },
-      {
-        "type": "category",
-        "label": "Features",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "📝 Pointage",
-            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage",
-            "docId": "Features/pointage"
-          },
-          {
-            "type": "link",
-            "label": "👨🏽‍💻 Gestion des heures supplémentaires",
-            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime",
-            "docId": "Features/calcul-overtime"
-          },
-          {
-            "type": "link",
-            "label": "📅 Gestion des absences",
-            "href": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences",
-            "docId": "Features/gestion-abscences"
-          }
-        ]
+        "href": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-alertes"
       }
     ]
   },
   "docs": {
     "Alertes/anomalies": {
       "id": "Alertes/anomalies",
-      "title": "anomalies",
-      "description": "",
+      "title": "⛔️ Anomalies",
+      "description": "Une anomalie est un pointage qui ne respecte pas les règles de pointage. Il peut s'agir d'un pointage manquant, d'un pointage avec une heure d'entrée ou de sortie incorrecte, ou d'un pointage avec une heure d'entrée ou de sortie manquante.",
       "sidebar": "tutorialSidebar"
     },
     "Alertes/overtime": {
       "id": "Alertes/overtime",
-      "title": "overtime",
-      "description": "test",
+      "title": "📊 Récapitulatif heures supplémentaires",
+      "description": "Chaque premier du mois, un mail récapitulatif est envoyé à la partie technique avec le détail des heures supplémentaires de chaque employé.",
       "sidebar": "tutorialSidebar"
     },
     "Calculs/heures-sup": {
@@ -134,6 +159,30 @@
       "description": "Les employés peuvent soumettre des demandes de congés ou de repos directement à travers l'application. Les gestionnaires peuvent ensuite approuver ou rejeter ces demandes, assurant ainsi une gestion centralisée et transparente des congés et des repos.",
       "sidebar": "tutorialSidebar"
     },
+    "Features/gestion-heures-sup": {
+      "id": "Features/gestion-heures-sup",
+      "title": "📊 Gestion des heures sup",
+      "description": "Les heures supplémentaires sont calculées automatiquement en fonction des pointages d'entrée et de sortie des employés. Les heures supplémentaires sont calculées en fonction des seuils horaires définis dans les paramètres de l'application.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Features/gestion-sueils": {
+      "id": "Features/gestion-sueils",
+      "title": "⚙️ Gestion des seuils",
+      "description": "Sur la badgeuse, les seuils horaires sont utilisés pour calculer les heures supplémentaires. Les seuils horaires sont définis en fonction du statut de l'employé (Chef d'équipe ou non).",
+      "sidebar": "tutorialSidebar"
+    },
+    "Features/gestion-teams": {
+      "id": "Features/gestion-teams",
+      "title": "👥 Gestion des équipes",
+      "description": "Les employés peuvent être assignés à des équipes. Chaque équipe doit avoir un chef d'équipe, et sont assignés à une seule équipe. Dès lors que l'on ajoute un nouvel utilisateur au statut chef d'équipe, où que l'on modifie le statut d'un utilisateur existant en chef d'équipe, cela créé automatiquement une nouvelle équipe. Pour ajouter un employé à une équipe, il y a deux options :",
+      "sidebar": "tutorialSidebar"
+    },
+    "Features/gestion-users": {
+      "id": "Features/gestion-users",
+      "title": "👷🏼‍♂️ Gestion des employés",
+      "description": "➕ Ajouter un employé",
+      "sidebar": "tutorialSidebar"
+    },
     "Features/pointage": {
       "id": "Features/pointage",
       "title": "📝 Pointage",
@@ -142,7 +191,7 @@
     },
     "intro": {
       "id": "intro",
-      "title": "Présentation",
+      "title": "🏠 Présentation",
       "description": "La badgeuse d'Austral Groupe Energie est un outil permettant de gérer les entrées et sorties des employés de la partie technique. Elle permet également de gérer les absences, les congés, et les heures supplémentaires. Cette application vise à simplifier et automatiser le processus de suivi des heures de travail.",
       "sidebar": "tutorialSidebar"
     }

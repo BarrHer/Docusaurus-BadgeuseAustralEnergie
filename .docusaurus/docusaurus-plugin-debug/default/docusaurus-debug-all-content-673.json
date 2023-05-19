@@ -20,8 +20,8 @@
             {
               "unversionedId": "Alertes/anomalies",
               "id": "Alertes/anomalies",
-              "title": "anomalies",
-              "description": "",
+              "title": "⛔️ Anomalies",
+              "description": "Une anomalie est un pointage qui ne respecte pas les règles de pointage. Il peut s'agir d'un pointage manquant, d'un pointage avec une heure d'entrée ou de sortie incorrecte, ou d'un pointage avec une heure d'entrée ou de sortie manquante.",
               "source": "@site/docs/Alertes/anomalies.md",
               "sourceDirName": "Alertes",
               "slug": "/Alertes/anomalies",
@@ -29,22 +29,26 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "⛔️ Anomalies"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Alertes",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
+                "title": "🚨 Alertes",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-alertes"
               },
               "next": {
-                "title": "overtime",
+                "title": "📊 Récapitulatif heures supplémentaires",
                 "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime"
               }
             },
             {
               "unversionedId": "Alertes/overtime",
               "id": "Alertes/overtime",
-              "title": "overtime",
-              "description": "test",
+              "title": "📊 Récapitulatif heures supplémentaires",
+              "description": "Chaque premier du mois, un mail récapitulatif est envoyé à la partie technique avec le détail des heures supplémentaires de chaque employé.",
               "source": "@site/docs/Alertes/overtime.md",
               "sourceDirName": "Alertes",
               "slug": "/Alertes/overtime",
@@ -52,15 +56,15 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {},
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "📊 Récapitulatif heures supplémentaires"
+              },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "anomalies",
+                "title": "⛔️ Anomalies",
                 "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies"
-              },
-              "next": {
-                "title": "📝 Pointage",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage"
               }
             },
             {
@@ -113,8 +117,8 @@
                 "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/heures-sup"
               },
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics"
+                "title": "🚨 Alertes",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-alertes"
               }
             },
             {
@@ -136,8 +140,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Calculs de base",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base"
+                "title": "🧮 Calculs de base",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-calculs-de-base"
               },
               "next": {
                 "title": "🪪 Heures supplémentaires",
@@ -192,6 +196,118 @@
               "previous": {
                 "title": "👨🏽‍💻 Gestion des heures supplémentaires",
                 "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime"
+              },
+              "next": {
+                "title": "⚙️ Gestion des seuils",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils"
+              }
+            },
+            {
+              "unversionedId": "Features/gestion-heures-sup",
+              "id": "Features/gestion-heures-sup",
+              "title": "📊 Gestion des heures sup",
+              "description": "Les heures supplémentaires sont calculées automatiquement en fonction des pointages d'entrée et de sortie des employés. Les heures supplémentaires sont calculées en fonction des seuils horaires définis dans les paramètres de l'application.",
+              "source": "@site/docs/Features/gestion-heures-sup.md",
+              "sourceDirName": "Features",
+              "slug": "/Features/gestion-heures-sup",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-heures-sup",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6,
+                "title": "📊 Gestion des heures sup"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "👥 Gestion des équipes",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams"
+              },
+              "next": {
+                "title": "🧮 Calculs de base",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-calculs-de-base"
+              }
+            },
+            {
+              "unversionedId": "Features/gestion-sueils",
+              "id": "Features/gestion-sueils",
+              "title": "⚙️ Gestion des seuils",
+              "description": "Sur la badgeuse, les seuils horaires sont utilisés pour calculer les heures supplémentaires. Les seuils horaires sont définis en fonction du statut de l'employé (Chef d'équipe ou non).",
+              "source": "@site/docs/Features/gestion-sueils.md",
+              "sourceDirName": "Features",
+              "slug": "/Features/gestion-sueils",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "⚙️ Gestion des seuils"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "📅 Gestion des absences",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences"
+              },
+              "next": {
+                "title": "👥 Gestion des équipes",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams"
+              }
+            },
+            {
+              "unversionedId": "Features/gestion-teams",
+              "id": "Features/gestion-teams",
+              "title": "👥 Gestion des équipes",
+              "description": "Les employés peuvent être assignés à des équipes. Chaque équipe doit avoir un chef d'équipe, et sont assignés à une seule équipe. Dès lors que l'on ajoute un nouvel utilisateur au statut chef d'équipe, où que l'on modifie le statut d'un utilisateur existant en chef d'équipe, cela créé automatiquement une nouvelle équipe. Pour ajouter un employé à une équipe, il y a deux options :",
+              "source": "@site/docs/Features/gestion-teams.md",
+              "sourceDirName": "Features",
+              "slug": "/Features/gestion-teams",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "👥 Gestion des équipes"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "⚙️ Gestion des seuils",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils"
+              },
+              "next": {
+                "title": "📊 Gestion des heures sup",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-heures-sup"
+              }
+            },
+            {
+              "unversionedId": "Features/gestion-users",
+              "id": "Features/gestion-users",
+              "title": "👷🏼‍♂️ Gestion des employés",
+              "description": "➕ Ajouter un employé",
+              "source": "@site/docs/Features/gestion-users.md",
+              "sourceDirName": "Features",
+              "slug": "/Features/gestion-users",
+              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-users",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "👷🏼‍♂️ Gestion des employés"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "📚 Fonctionnalites",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites"
+              },
+              "next": {
+                "title": "📝 Pointage",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage"
               }
             },
             {
@@ -213,8 +329,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "overtime",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime"
+                "title": "👷🏼‍♂️ Gestion des employés",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-users"
               },
               "next": {
                 "title": "👨🏽‍💻 Gestion des heures supplémentaires",
@@ -224,7 +340,7 @@
             {
               "unversionedId": "intro",
               "id": "intro",
-              "title": "Présentation",
+              "title": "🏠 Présentation",
               "description": "La badgeuse d'Austral Groupe Energie est un outil permettant de gérer les entrées et sorties des employés de la partie technique. Elle permet également de gérer les absences, les congés, et les heures supplémentaires. Cette application vise à simplifier et automatiser le processus de suivi des heures de travail.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
@@ -235,220 +351,13 @@
               "version": "current",
               "sidebarPosition": 1,
               "frontMatter": {
-                "sidebar_position": 1
+                "sidebar_position": 1,
+                "title": "🏠 Présentation"
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Calculs de base",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/congratulations",
-              "id": "tutorial-basics/congratulations",
-              "title": "Congratulations!",
-              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-              "source": "@site/docs/tutorial-basics/congratulations.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/congratulations",
-              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/congratulations",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 6,
-              "frontMatter": {
-                "sidebar_position": 6
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Deploy your site",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/deploy-your-site"
-              },
-              "next": {
-                "title": "Tutorial - Extras",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-blog-post",
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-blog-post",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/markdown-features"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-document",
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-document",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/create-a-page",
-              "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-page",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-document"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/deploy-your-site",
-              "id": "tutorial-basics/deploy-your-site",
-              "title": "Deploy your site",
-              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
-              "source": "@site/docs/tutorial-basics/deploy-your-site.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/deploy-your-site",
-              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/deploy-your-site",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 5,
-              "frontMatter": {
-                "sidebar_position": 5
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Markdown Features",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/markdown-features"
-              },
-              "next": {
-                "title": "Congratulations!",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/congratulations"
-              }
-            },
-            {
-              "unversionedId": "tutorial-basics/markdown-features",
-              "id": "tutorial-basics/markdown-features",
-              "title": "Markdown Features",
-              "description": "Docusaurus supports Markdown and a few additional features.",
-              "source": "@site/docs/tutorial-basics/markdown-features.mdx",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/markdown-features",
-              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/markdown-features",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 4,
-              "frontMatter": {
-                "sidebar_position": 4
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/create-a-blog-post"
-              },
-              "next": {
-                "title": "Deploy your site",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-basics/deploy-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/manage-docs-versions",
-              "id": "tutorial-extras/manage-docs-versions",
-              "title": "Manage Docs Versions",
-              "description": "Docusaurus can manage multiple versions of your docs.",
-              "source": "@site/docs/tutorial-extras/manage-docs-versions.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/manage-docs-versions",
-              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/manage-docs-versions",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Extras",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras"
-              },
-              "next": {
-                "title": "Translate your site",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/translate-your-site"
-              }
-            },
-            {
-              "unversionedId": "tutorial-extras/translate-your-site",
-              "id": "tutorial-extras/translate-your-site",
-              "title": "Translate your site",
-              "description": "Let's translate docs/intro.md to French.",
-              "source": "@site/docs/tutorial-extras/translate-your-site.md",
-              "sourceDirName": "tutorial-extras",
-              "slug": "/tutorial-extras/translate-your-site",
-              "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/translate-your-site",
-              "draft": false,
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Manage Docs Versions",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/tutorial-extras/manage-docs-versions"
-              },
-              "next": {
-                "title": "Alertes",
-                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
+                "title": "📚 Fonctionnalites",
+                "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites"
               }
             }
           ],
@@ -461,7 +370,48 @@
               },
               {
                 "type": "category",
-                "label": "Calculs de base",
+                "label": "📚 Fonctionnalites",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Features/gestion-users"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Features/pointage"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Features/calcul-overtime"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Features/gestion-abscences"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Features/gestion-sueils"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Features/gestion-teams"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Features/gestion-heures-sup"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/-fonctionnalites",
+                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites"
+                }
+              },
+              {
+                "type": "category",
+                "label": "🧮 Calculs de base",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -480,72 +430,13 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/calculs-de-base",
-                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base"
+                  "slug": "/category/-calculs-de-base",
+                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-calculs-de-base"
                 }
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/markdown-features"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/deploy-your-site"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-basics/congratulations"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---basics"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Tutorial - Extras",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/manage-docs-versions"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "tutorial-extras/translate-your-site"
-                  }
-                ],
-                "link": {
-                  "type": "generated-index",
-                  "slug": "/category/tutorial---extras",
-                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/tutorial---extras"
-                }
-              },
-              {
-                "type": "category",
-                "label": "Alertes",
+                "label": "🚨 Alertes",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
@@ -560,29 +451,9 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "slug": "/category/alertes",
-                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
+                  "slug": "/category/-alertes",
+                  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-alertes"
                 }
-              },
-              {
-                "type": "category",
-                "label": "Features",
-                "collapsible": true,
-                "collapsed": true,
-                "items": [
-                  {
-                    "type": "doc",
-                    "id": "Features/pointage"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Features/calcul-overtime"
-                  },
-                  {
-                    "type": "doc",
-                    "id": "Features/gestion-abscences"
-                  }
-                ]
               }
             ]
           }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Features/gestion-teams",
+  "id": "Features/gestion-teams",
+  "title": "👥 Gestion des équipes",
+  "description": "Les employés peuvent être assignés à des équipes. Chaque équipe doit avoir un chef d'équipe, et sont assignés à une seule équipe. Dès lors que l'on ajoute un nouvel utilisateur au statut chef d'équipe, où que l'on modifie le statut d'un utilisateur existant en chef d'équipe, cela créé automatiquement une nouvelle équipe. Pour ajouter un employé à une équipe, il y a deux options :",
+  "source": "@site/docs/Features/gestion-teams.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/gestion-teams",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5,
+    "title": "👥 Gestion des équipes"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⚙️ Gestion des seuils",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils"
+  },
+  "next": {
+    "title": "📊 Gestion des heures sup",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-heures-sup"
+  }
+}

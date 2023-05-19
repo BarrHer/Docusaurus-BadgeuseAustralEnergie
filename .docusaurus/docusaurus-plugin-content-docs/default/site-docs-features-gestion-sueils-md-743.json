@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Features/gestion-sueils",
+  "id": "Features/gestion-sueils",
+  "title": "⚙️ Gestion des seuils",
+  "description": "Sur la badgeuse, les seuils horaires sont utilisés pour calculer les heures supplémentaires. Les seuils horaires sont définis en fonction du statut de l'employé (Chef d'équipe ou non).",
+  "source": "@site/docs/Features/gestion-sueils.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/gestion-sueils",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "⚙️ Gestion des seuils"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📅 Gestion des absences",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences"
+  },
+  "next": {
+    "title": "👥 Gestion des équipes",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams"
+  }
+}

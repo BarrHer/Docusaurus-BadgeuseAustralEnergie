@@ -1,8 +1,8 @@
 {
   "unversionedId": "Alertes/anomalies",
   "id": "Alertes/anomalies",
-  "title": "anomalies",
-  "description": "",
+  "title": "⛔️ Anomalies",
+  "description": "Une anomalie est un pointage qui ne respecte pas les règles de pointage. Il peut s'agir d'un pointage manquant, d'un pointage avec une heure d'entrée ou de sortie incorrecte, ou d'un pointage avec une heure d'entrée ou de sortie manquante.",
   "source": "@site/docs/Alertes/anomalies.md",
   "sourceDirName": "Alertes",
   "slug": "/Alertes/anomalies",
@@ -10,14 +10,18 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "⛔️ Anomalies"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Alertes",
-    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes"
+    "title": "🚨 Alertes",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-alertes"
   },
   "next": {
-    "title": "overtime",
+    "title": "📊 Récapitulatif heures supplémentaires",
     "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime"
   }
 }

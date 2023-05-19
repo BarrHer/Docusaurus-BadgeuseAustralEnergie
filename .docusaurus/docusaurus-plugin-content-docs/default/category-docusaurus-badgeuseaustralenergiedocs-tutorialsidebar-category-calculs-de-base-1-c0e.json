@@ -4,12 +4,12 @@
   "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base-1",
   "navigation": {
     "previous": {
-      "title": "overtime",
-      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/overtime"
+      "title": "📦 Solde",
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/solde"
     },
     "next": {
-      "title": "Temps de travail",
-      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Calculs/temps-de-travail"
+      "title": "📝 Pointage",
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage"
     }
   }
 }

@@ -46,6 +46,26 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Features/gestion-heures-sup",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-heures-sup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Features/gestion-sueils",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Features/gestion-teams",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Features/gestion-users",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-users",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Features/pointage",
               "path": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage",
               "sidebar": "tutorialSidebar"
@@ -56,13 +76,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/calculs-de-base",
-              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base",
+              "id": "/category/-fonctionnalites",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/alertes",
-              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes",
+              "id": "/category/-calculs-de-base",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-calculs-de-base",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-alertes",
+              "path": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-alertes",
               "sidebar": "tutorialSidebar"
             }
           ],

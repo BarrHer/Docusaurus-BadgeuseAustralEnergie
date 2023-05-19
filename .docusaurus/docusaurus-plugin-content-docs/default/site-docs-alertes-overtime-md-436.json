@@ -1,8 +1,8 @@
 {
   "unversionedId": "Alertes/overtime",
   "id": "Alertes/overtime",
-  "title": "overtime",
-  "description": "test",
+  "title": "📊 Récapitulatif heures supplémentaires",
+  "description": "Chaque premier du mois, un mail récapitulatif est envoyé à la partie technique avec le détail des heures supplémentaires de chaque employé.",
   "source": "@site/docs/Alertes/overtime.md",
   "sourceDirName": "Alertes",
   "slug": "/Alertes/overtime",
@@ -10,14 +10,14 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2,
+    "title": "📊 Récapitulatif heures supplémentaires"
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "anomalies",
+    "title": "⛔️ Anomalies",
     "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies"
-  },
-  "next": {
-    "title": "📝 Pointage",
-    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage"
   }
 }

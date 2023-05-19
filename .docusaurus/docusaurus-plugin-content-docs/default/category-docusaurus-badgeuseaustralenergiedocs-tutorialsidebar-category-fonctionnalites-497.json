@@ -1,0 +1,15 @@
+{
+  "title": "📚 Fonctionnalites",
+  "slug": "/category/-fonctionnalites",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites",
+  "navigation": {
+    "previous": {
+      "title": "🏠 Présentation",
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/intro"
+    },
+    "next": {
+      "title": "👷🏼‍♂️ Gestion des employés",
+      "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-users"
+    }
+  }
+}

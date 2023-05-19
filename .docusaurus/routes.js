@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug',
+    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug', '857'),
+    exact: true
+  },
+  {
+    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/config',
+    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/config', '101'),
+    exact: true
+  },
+  {
+    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/content',
+    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/content', 'f08'),
+    exact: true
+  },
+  {
+    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/globalData',
+    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/globalData', '614'),
+    exact: true
+  },
+  {
+    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/metadata',
+    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/metadata', '344'),
+    exact: true
+  },
+  {
+    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/registry',
+    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/registry', '9f3'),
+    exact: true
+  },
+  {
+    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/routes',
+    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/routes', 'a65'),
+    exact: true
+  },
+  {
     path: '/Docusaurus-BadgeuseAustralEnergie/blog',
     component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/blog', '28b'),
     exact: true
@@ -64,7 +99,7 @@ export default [
   },
   {
     path: '/Docusaurus-BadgeuseAustralEnergie/docs',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs', '2aa'),
+    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs', '768'),
     routes: [
       {
         path: '/Docusaurus-BadgeuseAustralEnergie/docs/Alertes/anomalies',
@@ -97,14 +132,20 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/category/alertes', '903'),
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/category/-alertes',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/category/-alertes', '2d1'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base',
-        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base', '73d'),
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/category/-calculs-de-base',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/category/-calculs-de-base', 'a85'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites', '174'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -117,6 +158,30 @@ export default [
       {
         path: '/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences',
         component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-abscences', '158'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-heures-sup',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-heures-sup', '111'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils', '4a5'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams', 'b90'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-users',
+        component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-users', 'b59'),
         exact: true,
         sidebar: "tutorialSidebar"
       },

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Features/gestion-heures-sup",
+  "id": "Features/gestion-heures-sup",
+  "title": "📊 Gestion des heures sup",
+  "description": "Les heures supplémentaires sont calculées automatiquement en fonction des pointages d'entrée et de sortie des employés. Les heures supplémentaires sont calculées en fonction des seuils horaires définis dans les paramètres de l'application.",
+  "source": "@site/docs/Features/gestion-heures-sup.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/gestion-heures-sup",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-heures-sup",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "📊 Gestion des heures sup"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "👥 Gestion des équipes",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-teams"
+  },
+  "next": {
+    "title": "🧮 Calculs de base",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-calculs-de-base"
+  }
+}

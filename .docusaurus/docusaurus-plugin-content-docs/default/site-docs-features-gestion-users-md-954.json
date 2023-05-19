@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Features/gestion-users",
+  "id": "Features/gestion-users",
+  "title": "👷🏼‍♂️ Gestion des employés",
+  "description": "➕ Ajouter un employé",
+  "source": "@site/docs/Features/gestion-users.md",
+  "sourceDirName": "Features",
+  "slug": "/Features/gestion-users",
+  "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-users",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "👷🏼‍♂️ Gestion des employés"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📚 Fonctionnalites",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites"
+  },
+  "next": {
+    "title": "📝 Pointage",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/pointage"
+  }
+}

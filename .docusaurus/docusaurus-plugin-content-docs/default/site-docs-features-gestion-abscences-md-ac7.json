@@ -19,5 +19,9 @@
   "previous": {
     "title": "👨🏽‍💻 Gestion des heures supplémentaires",
     "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/calcul-overtime"
+  },
+  "next": {
+    "title": "⚙️ Gestion des seuils",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/Features/gestion-sueils"
   }
 }

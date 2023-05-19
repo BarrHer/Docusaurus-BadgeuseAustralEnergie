@@ -1,7 +1,7 @@
 {
   "unversionedId": "intro",
   "id": "intro",
-  "title": "Présentation",
+  "title": "🏠 Présentation",
   "description": "La badgeuse d'Austral Groupe Energie est un outil permettant de gérer les entrées et sorties des employés de la partie technique. Elle permet également de gérer les absences, les congés, et les heures supplémentaires. Cette application vise à simplifier et automatiser le processus de suivi des heures de travail.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
@@ -12,11 +12,12 @@
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "title": "🏠 Présentation"
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "Calculs de base",
-    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/calculs-de-base"
+    "title": "📚 Fonctionnalites",
+    "permalink": "/Docusaurus-BadgeuseAustralEnergie/docs/category/-fonctionnalites"
   }
 }
