@@ -11,4 +11,4 @@ Le calcul des heures supplémentaires est basé sur les règles suivantes :
 - Les [heures supplémentaires](../calculs/heures-sup) sont calculées pour le mois en cours.
 - Le [solde des heures supplémentaires](../calculs/solde) est ajouté au calcul des heures supplémentaires du mois en cours.
 
-Chaque premiers du mois, un mail récapitulatif est envoyé à la partie technique avec le détail des heures supplémentaires de chaque employé. (voir [Alertes](../category/alertes))
+Chaque premiers du mois, un mail récapitulatif est envoyé à la partie technique avec le détail des heures supplémentaires de chaque employé. (voir [Alertes](../category/-alertes))

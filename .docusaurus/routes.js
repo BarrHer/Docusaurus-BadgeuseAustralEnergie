@@ -3,41 +3,6 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug', '857'),
-    exact: true
-  },
-  {
-    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/config',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/config', '101'),
-    exact: true
-  },
-  {
-    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/content',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/content', 'f08'),
-    exact: true
-  },
-  {
-    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/globalData',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/globalData', '614'),
-    exact: true
-  },
-  {
-    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/metadata',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/metadata', '344'),
-    exact: true
-  },
-  {
-    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/registry',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/registry', '9f3'),
-    exact: true
-  },
-  {
-    path: '/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/routes',
-    component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/__docusaurus/debug/routes', 'a65'),
-    exact: true
-  },
-  {
     path: '/Docusaurus-BadgeuseAustralEnergie/blog',
     component: ComponentCreator('/Docusaurus-BadgeuseAustralEnergie/blog', '28b'),
     exact: true

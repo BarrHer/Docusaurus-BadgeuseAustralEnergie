@@ -8,6 +8,7 @@ title: "🏠 Présentation"
 La **[badgeuse d'Austral Groupe Energie](https://badge-australenergie.netlify.app/)** est un outil permettant de gérer les entrées et sorties des employés de la partie technique. Elle permet également de gérer **les absences**, **les congés**, et **les heures supplémentaires**. Cette application vise à simplifier et automatiser le processus de suivi des heures de travail.
 
 ## Demander un accès
+
 Pour demander un accès à l'application, veuillez contacter **[le service informatique](mailto:si@australsolar.re)**.
 
 ## Fonctionnalités principales
